@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-course-practice",
+  "name": "nextjs-meetups-project",
   "private": true,
   "scripts": {
     "dev": "next dev",
